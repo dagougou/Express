@@ -38,3 +38,16 @@ body {
     border-top-left-radius: 0;
     border-top-right-radius: 0;
   }
+
+
+  /**/
+  .loginContainer{
+    background-color: #b3cef569;
+    width: 500px;
+    border-radius: 20px;
+  }
+
+  .login-head{
+    align-content: center;
+     text-align:center;
+  }
